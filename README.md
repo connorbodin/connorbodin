@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there! It's a pleasure to meet you. My name is Connor Bodin, and I'm a full-stack developer with a passion for creating innovative, user-friendly, and efficient web applications. I'm excited to share my skills and experience with you, so welcome to my GitHub profile.
+
+### Over the years, I've honed my skills in a range of programming languages, including Java, Python, and JavaScript. I'm also experienced in working with popular web frameworks like React, Angular, and Django. Whether it's front-end development, back-end development, or full-stack development, I'm always eager to tackle new challenges and push the boundaries of what's possible.
+
+### If you're interested in collaborating on a project or have any questions about my work, please don't hesitate to reach out. I'm always open to new opportunities and would love to hear from you. Thanks again for stopping by my profile, and I hope we can work together in the future!👋
 
 <!--
 **connorbodin/connorbodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
